@@ -1,7 +1,7 @@
 rootpath
 ========
 ###Status
-[![status](https://travis-ci.org/dayuoba/rootdir.png)](https://travis-ci.org/dayuoba/rootdir)
+[![Build Status](https://travis-ci.org/dayuoba/rootdir.svg?branch=master)](https://travis-ci.org/dayuoba/rootdir)
 
 node.js rootpath
 ### install
